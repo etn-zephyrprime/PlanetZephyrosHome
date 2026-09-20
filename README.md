@@ -1,8 +1,10 @@
 # Planet Zephyros Home
 
 Single-page link hub for **planetzephyros.xyz** — every Planet Zephyros project and channel in
-one place (Ecosystem Hub, ElectroSwap, Core Clash, Core Ascension, ETN Subdomain Service, the
-Electroneum Dashboard + PnL Statements, and social/dev links).
+one place (Ecosystem Hub, ElectroSwap, Core Clash, Core Ascension, ETN Subdomain Service, Argus +
+PnL Statements, and social/dev links).
+
+Core Clash is currently **paused** — its tile still shows, but links nowhere and is badged as such.
 
 Static site, no build step: `index.html` is the entire page (inline CSS/JS, logos embedded as
 base64 data URIs — no external asset requests besides the Orbitron Google Font). Deploy by
